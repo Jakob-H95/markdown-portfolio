@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+**I'm just learning how to move throught the markdowns and to create emphasis on _words_!**
