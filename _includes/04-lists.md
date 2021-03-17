@@ -1,3 +1,3 @@
-[ ] Soccer
-[ ] Surfing
-[ ] Skating
+* Soccer
+* Surfing
+* Skating
